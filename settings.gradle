@@ -1,0 +1,3 @@
+rootProject.name = 'poc-graphql-java-simple-blog-undertow'
+include 'teste'
+
